@@ -3,7 +3,7 @@
 
 ###  Resumo do Aplicativo  Finança AI — App de Finança Pessoal Conversacional
 
-Este projeto é um **app de organização financeira pessoal baseado em interação conversacional**.  
+Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding, utilizando o Lovable e o Copilot Web. È um **app de organização financeira pessoal baseado em interação conversacional**.  
 A proposta é simplificar completamente a forma como o usuário controla suas finanças, permitindo registrar gastos, criar metas e visualizar relatórios **apenas conversando com o sistema**.
 
 ###  Principais Recursos
