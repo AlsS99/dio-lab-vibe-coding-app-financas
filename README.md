@@ -1,5 +1,24 @@
 # 💸 App Finança AI com Vibe Coding
 
+
+###  Resumo do Aplicativo  Finança AI — App de Finança Pessoal Conversacional
+
+Este projeto é um **app de organização financeira pessoal baseado em interação conversacional**.  
+A proposta é simplificar completamente a forma como o usuário controla suas finanças, permitindo registrar gastos, criar metas e visualizar relatórios **apenas conversando com o sistema**.
+
+###  Principais Recursos
+- Registro de despesas e receitas via **chat em linguagem natural**.  
+- **Classificação automática** das transações.  
+- **Criação e acompanhamento** de metas financeiras.  
+- **Relatórios visuais** com gráficos, indicadores e extrato detalhado.  
+- **Recomendações inteligentes** baseadas no comportamento do usuário.  
+- Interface acessível com **modo claro/escuro**.  
+- Design guiado por **princípios de Design Universal** (simplicidade, acessibilidade e clareza).
+
+O MVP foi projetado para entregar uma experiência **fluida, intuitiva e acolhedora**, com foco em usuários iniciantes no controle financeiro.
+
+---
+
 ## PRD refinado com Copilot Web:
 
 ```markdown
@@ -26,10 +45,10 @@ Classificação automática de transações.
 Metas financeiras: definir objetivos e acompanhar progresso.
 Agente Financeiro: dicas personalizadas de economia e insights sobre hábitos de consumo.
 Relatórios simples e personalizados: gráficos e resumos acessíveis.
-Salvar informações, adicionar autenticação de usuários ou conectar com outros serviço.
+Salvar informações, adicionar autenticação de usuários ou conectar com outros serviços.
 Implementar autenticação completa e IA conversacional no chat.
-O chat de IA deve, alem de registrar gastos e dar dicas, criar metas e acompanhar metas.
-Adicione uma tela de relatorios com graficos e extrato detalhado das transações.
+O chat de IA deve, além de registrar gastos e dar dicas, criar metas e acompanhar metas.
+Adicione uma tela de relatórios com graficos e extrato detalhado das transações.
 
 ## 5. Entregável da IA
 Plano de MVP:
@@ -83,24 +102,6 @@ Alinha-se com configurações do sistema operacional do usuário.
 
 >Print 2:
 <img width="1300" height="1219" alt="image" src="https://github.com/user-attachments/assets/7ce8180f-e80d-4d19-aa68-e1b991ec91f2" />
-
-##  Finança AI — App de Finança Pessoal Conversacional
-
-###  Resumo do Aplicativo
-
-Este projeto é um **app de organização financeira pessoal baseado em interação conversacional**.  
-A proposta é simplificar completamente a forma como o usuário controla suas finanças, permitindo registrar gastos, criar metas e visualizar relatórios **apenas conversando com o sistema**.
-
-###  Principais Recursos
-- Registro de despesas e receitas via **chat em linguagem natural**.  
-- **Classificação automática** das transações.  
-- **Criação e acompanhamento** de metas financeiras.  
-- **Relatórios visuais** com gráficos, indicadores e extrato detalhado.  
-- **Recomendações inteligentes** baseadas no comportamento do usuário.  
-- Interface acessível com **modo claro/escuro**.  
-- Design guiado por **princípios de Design Universal** (simplicidade, acessibilidade e clareza).
-
-O MVP foi projetado para entregar uma experiência **fluida, intuitiva e acolhedora**, com foco em usuários iniciantes no controle financeiro.
 
 ---
 
