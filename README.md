@@ -1,6 +1,6 @@
 # 💸 App Finança AI com Vibe Coding
 
-PRD refinado com Copilot Web:
+## PRD refinado com Copilot Web:
 
 ```markdown
 Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Documents): # PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
@@ -70,14 +70,13 @@ Melhora a acessibilidade para pessoas com sensibilidade à luz ou baixa visão.
 Oferece personalização estética e conforto visual.
 Alinha-se com configurações do sistema operacional do usuário.
 ```
-Interações com Lovable:
+## Interações com Lovable:
 
 > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Documents): {PRD} 
 
 > Em Metas, retire o card: Total Guardado.
 
-Resultado Final no Lovable: https://fin-talk-pal.lovable.app
-
+### Resultado Final no Lovable: https://fin-talk-pal.lovable.app
 
 >Print 1:
 <img width="1297" height="719" alt="image" src="https://github.com/user-attachments/assets/47ac0426-4212-4767-b526-762c489d56b4" />
@@ -85,12 +84,9 @@ Resultado Final no Lovable: https://fin-talk-pal.lovable.app
 >Print 2:
 <img width="1300" height="1219" alt="image" src="https://github.com/user-attachments/assets/7ce8180f-e80d-4d19-aa68-e1b991ec91f2" />
 
+##  Finança AI — App de Finança Pessoal Conversacional
 
-
-
-#  Finança AI — App de Finança Pessoal Conversacional
-
-##  Resumo do Aplicativo
+###  Resumo do Aplicativo
 
 Este projeto é um **app de organização financeira pessoal baseado em interação conversacional**.  
 A proposta é simplificar completamente a forma como o usuário controla suas finanças, permitindo registrar gastos, criar metas e visualizar relatórios **apenas conversando com o sistema**.
